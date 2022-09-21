@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    flex-direction: column;
+    background-color:#3347B0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.container-principal{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 8px;
+}
+
+.logo{
+    padding-left: 3vw;
+    height: 3.5vw;
+}
+
+.exit{
+    padding-right: 3vw;
+    height: 2vw;
+}

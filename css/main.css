@@ -1,0 +1,30 @@
+main{
+    background-color: white;
+    height: 100vh;
+    padding-left: 100px;
+    padding-top: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-text{
+    font-size: 5rem;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+}
+.juncao{
+    padding-top: 0;
+    display: flex;
+    gap: 15px;
+}
+
+.second{
+    color: #3347B0;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+.container-ph{
+    height: 36vh;
+    padding-top: 50px;
+    font-family: 'Roboto', sans-serif;
+}
